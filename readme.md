@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="./public/images/study1.png" width="700" >
-</p>
-
-<p align="center">
   <img src="./public/images/cadastro.png" width="700" >
 </p>
 
